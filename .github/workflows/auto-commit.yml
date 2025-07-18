@@ -1,56 +1,59 @@
-name: Auto Commit Daily (10 commits)
+  name: Auto Commit Daily (10 commits)
 
-on:
-  schedule:
-    - cron: '0 6 * * *'  # Start setiap hari jam 06:00 UTC (randomized inside script)
-  workflow_dispatch:
+  on:
+    schedule:
+      - cron: '0 6 * * *'  # Start setiap hari jam 06:00 UTC (randomized inside script)
+    workflow_dispatch:
 
-jobs:
-  auto-commit:
-    runs-on: ubuntu-latest
+  jobs:
+    auto-commit:
+      runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v2
 
-      - name: Setup Git
-        run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
+        - name: Setup Git
+          run: |
+            git config --global user.name "Your Name"
+            git config --global user.email "your-email@example.com"
 
-      - name: Generate 10 Random Commits
-        run: |
-          # Array pesan commit
-          MESSAGES=("Update notes" "Add new example" "Improve documentation" "Refactor code" "Learning log update" "Fix typo" "Enhance structure" "Minor changes" "Add snippet" "Update readme")
+        - name: Generate 10 Random Commits
+          run: |
+            # Array pesan commit
+            MESSAGES=("Update notes" "Add new example" "Improve documentation" "Refactor code" "Learning log update" "Fix typo" "Enhance structure" "Minor changes" "Add snippet" "Update readme")
 
-          # Array file yang akan diupdate
-          FILES=("notes/laravel.md" "notes/react.md" "notes/git.md" "notes/js.md")
+            # Array file yang akan diupdate
+            FILES=("notes/laravel.md" "notes/react.md" "notes/git.md" "notes/js.md")
 
-          # Jumlah commit (10)
-          COMMITS=10
+            # Jumlah commit (10)
+            COMMITS=10
 
-          # Random start delay (0-2 jam) biar tidak selalu sama jamnya
-          START_DELAY=$(( RANDOM % 7200 ))
-          echo "Initial random delay: $START_DELAY seconds..."
-          sleep $START_DELAY
+            # Random start delay (0-2 jam) biar tidak selalu sama jamnya
+            START_DELAY=$(( RANDOM % 7200 ))
+            echo "Initial random delay: $START_DELAY seconds..."
+            sleep $START_DELAY
 
-          for ((i=1;i<=COMMITS;i++)); do
-            MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
-            FILE=${FILES[$RANDOM % ${#FILES[@]}]}
-            mkdir -p notes
+            for ((i=1;i<=COMMITS;i++)); do
+              MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+              FILE=${FILES[$RANDOM % ${#FILES[@]}]}
+              mkdir -p notes
 
-            # Tambahkan catatan dengan timestamp
-            echo "$(date): $MSG" >> $FILE
+              # Tambahkan catatan dengan timestamp
+              echo "$(date): $MSG" >> $FILE
 
-            git add $FILE
-            git commit -m "$MSG"
+              git add $FILE
+              git commit -m "$MSG"
 
-            # Random delay antar commit (5-20 menit)
-            if [ $i -lt $COMMITS ]; then
-              SLEEP=$(( ( RANDOM % 900 )  + 300 ))
-              echo "Sleeping for $SLEEP seconds before next commit..."
-              sleep $SLEEP
-            fi
-          done
+              # Random delay antar commit (5-20 menit)
+              if [ $i -lt $COMMITS ]; then
+                SLEEP=$(( ( RANDOM % 900 )  + 300 ))
+                echo "Sleeping for $SLEEP seconds before next commit..."
+                sleep $SLEEP
+              fi
+            done
 
-          git push
+            - name: Push changes
+          run: |
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            git push origin HEAD:${{ github.ref_name }}
