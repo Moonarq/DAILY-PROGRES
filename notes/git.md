@@ -31,3 +31,4 @@ Sat Jul 26 07:03:15 UTC 2025: Add snippet
 Sat Jul 26 07:07:23 UTC 2025: Add new example
 Sat Jul 26 07:09:47 UTC 2025: Update notes
 Sat Jul 26 07:16:35 UTC 2025: Update notes
+Sun Jul 27 06:47:21 UTC 2025: Improve documentation
