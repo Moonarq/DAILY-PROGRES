@@ -18,8 +18,8 @@ jobs:
 
       - name: Setup Git
         run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
+          git config --global user.name "Moonarq"
+          git config --global user.email "ferry4biz@gmail.com"
 
       - name: Generate 15 Random Commits
         run: |
