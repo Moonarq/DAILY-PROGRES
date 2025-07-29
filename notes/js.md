@@ -42,3 +42,4 @@ Mon Jul 28 07:06:43 UTC 2025: Enhance structure
 Mon Jul 28 07:12:36 UTC 2025: Enhance structure
 Mon Jul 28 07:35:00 UTC 2025: Add new example
 Mon Jul 28 07:40:45 UTC 2025: Refactor code
+Tue Jul 29 06:53:44 UTC 2025: Improve documentation
