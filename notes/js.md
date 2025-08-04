@@ -69,3 +69,4 @@ Sun Aug  3 07:22:44 UTC 2025: Fix typo
 Sun Aug  3 07:32:58 UTC 2025: Learning log update
 Sun Aug  3 07:41:41 UTC 2025: Update notes
 Sun Aug  3 07:48:40 UTC 2025: Add new example
+Mon Aug  4 07:18:53 UTC 2025: Improve documentation
