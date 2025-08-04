@@ -56,3 +56,4 @@ Sun Aug  3 07:39:39 UTC 2025: Minor changes
 Sun Aug  3 07:44:28 UTC 2025: Update readme
 Mon Aug  4 07:34:05 UTC 2025: Add snippet
 Mon Aug  4 07:41:40 UTC 2025: Update readme
+Mon Aug  4 07:49:05 UTC 2025: Improve documentation
