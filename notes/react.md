@@ -102,3 +102,4 @@ Wed Aug 13 07:32:29 UTC 2025: Enhance structure
 Thu Aug 14 07:13:38 UTC 2025: Learning log update
 Thu Aug 14 07:26:39 UTC 2025: Add new example
 Thu Aug 14 07:29:54 UTC 2025: Improve documentation
+Thu Aug 14 07:48:41 UTC 2025: Improve documentation
