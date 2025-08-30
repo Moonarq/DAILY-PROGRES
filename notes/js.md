@@ -162,3 +162,4 @@ Fri Aug 29 07:14:00 UTC 2025: Enhance structure
 Fri Aug 29 07:21:29 UTC 2025: Enhance structure
 Fri Aug 29 07:28:11 UTC 2025: Enhance structure
 Sat Aug 30 07:15:18 UTC 2025: Add snippet
+Sat Aug 30 07:23:06 UTC 2025: Improve documentation
