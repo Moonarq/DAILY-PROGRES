@@ -190,3 +190,4 @@ Thu Sep  4 07:40:08 UTC 2025: Improve documentation
 Thu Sep  4 07:44:48 UTC 2025: Add new example
 Fri Sep  5 06:48:37 UTC 2025: Fix typo
 Fri Sep  5 06:51:58 UTC 2025: Fix typo
+Fri Sep  5 06:56:21 UTC 2025: Improve documentation
