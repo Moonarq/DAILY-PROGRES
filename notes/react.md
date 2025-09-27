@@ -280,3 +280,4 @@ Fri Sep 26 07:18:57 UTC 2025: Minor changes
 Fri Sep 26 07:30:44 UTC 2025: Add new example
 Fri Sep 26 07:44:56 UTC 2025: Add snippet
 Sat Sep 27 06:37:16 UTC 2025: Add snippet
+Sat Sep 27 06:41:30 UTC 2025: Improve documentation
