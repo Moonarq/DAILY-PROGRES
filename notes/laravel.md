@@ -274,3 +274,4 @@ Sat Sep 27 07:23:06 UTC 2025: Enhance structure
 Sun Sep 28 06:46:27 UTC 2025: Add new example
 Sun Sep 28 07:01:09 UTC 2025: Update readme
 Sun Sep 28 07:14:30 UTC 2025: Refactor code
+Sun Sep 28 07:21:42 UTC 2025: Improve documentation
