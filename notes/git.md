@@ -264,3 +264,4 @@ Mon Sep 29 06:42:08 UTC 2025: Add new example
 Mon Sep 29 06:44:44 UTC 2025: Learning log update
 Mon Sep 29 06:50:17 UTC 2025: Refactor code
 Mon Sep 29 06:56:34 UTC 2025: Update readme
+Mon Sep 29 06:59:32 UTC 2025: Improve documentation
