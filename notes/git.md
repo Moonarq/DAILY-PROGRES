@@ -270,3 +270,4 @@ Tue Sep 30 07:19:41 UTC 2025: Update readme
 Tue Sep 30 07:29:00 UTC 2025: Enhance structure
 Tue Sep 30 07:45:28 UTC 2025: Minor changes
 Tue Sep 30 07:57:50 UTC 2025: Add new example
+Wed Oct  1 06:51:54 UTC 2025: Improve documentation
