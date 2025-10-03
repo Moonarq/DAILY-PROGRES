@@ -288,3 +288,4 @@ Thu Oct  2 07:06:29 UTC 2025: Add new example
 Thu Oct  2 07:14:23 UTC 2025: Update readme
 Thu Oct  2 07:22:24 UTC 2025: Update notes
 Thu Oct  2 07:29:59 UTC 2025: Fix typo
+Fri Oct  3 07:23:46 UTC 2025: Improve documentation
