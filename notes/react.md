@@ -338,3 +338,4 @@ Mon Oct 13 06:58:37 UTC 2025: Update notes
 Mon Oct 13 07:21:23 UTC 2025: Add new example
 Mon Oct 13 07:33:19 UTC 2025: Update readme
 Tue Oct 14 07:05:35 UTC 2025: Add snippet
+Tue Oct 14 07:25:08 UTC 2025: Improve documentation
