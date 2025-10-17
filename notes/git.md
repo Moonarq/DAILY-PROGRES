@@ -336,3 +336,4 @@ Thu Oct 16 07:30:09 UTC 2025: Add new example
 Thu Oct 16 07:34:43 UTC 2025: Enhance structure
 Fri Oct 17 07:08:29 UTC 2025: Fix typo
 Fri Oct 17 07:10:55 UTC 2025: Fix typo
+Fri Oct 17 07:19:42 UTC 2025: Improve documentation
