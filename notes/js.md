@@ -385,3 +385,4 @@ Mon Oct 27 07:09:02 UTC 2025: Fix typo
 Mon Oct 27 07:23:46 UTC 2025: Add snippet
 Mon Oct 27 07:28:35 UTC 2025: Add snippet
 Tue Oct 28 07:00:05 UTC 2025: Update readme
+Tue Oct 28 07:27:58 UTC 2025: Improve documentation
