@@ -393,3 +393,4 @@ Wed Oct 29 07:22:48 UTC 2025: Add snippet
 Wed Oct 29 07:29:22 UTC 2025: Add new example
 Thu Oct 30 06:59:52 UTC 2025: Update readme
 Thu Oct 30 07:02:17 UTC 2025: Enhance structure
+Thu Oct 30 07:13:26 UTC 2025: Improve documentation
