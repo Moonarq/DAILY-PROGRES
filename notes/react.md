@@ -402,3 +402,4 @@ Fri Oct 31 06:54:03 UTC 2025: Refactor code
 Fri Oct 31 06:56:35 UTC 2025: Refactor code
 Sat Nov  1 06:54:46 UTC 2025: Add new example
 Sat Nov  1 07:01:21 UTC 2025: Learning log update
+Sat Nov  1 07:04:25 UTC 2025: Improve documentation
