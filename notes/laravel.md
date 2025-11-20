@@ -462,3 +462,4 @@ Wed Nov 19 07:02:40 UTC 2025: Update readme
 Wed Nov 19 07:07:11 UTC 2025: Add new example
 Wed Nov 19 07:09:57 UTC 2025: Fix typo
 Wed Nov 19 07:25:32 UTC 2025: Add snippet
+Thu Nov 20 07:08:04 UTC 2025: Refactor code
