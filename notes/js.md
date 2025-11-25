@@ -486,3 +486,4 @@ Mon Nov 24 06:52:40 UTC 2025: Update readme
 Mon Nov 24 07:00:15 UTC 2025: Learning log update
 Mon Nov 24 07:33:07 UTC 2025: Add new example
 Tue Nov 25 07:00:12 UTC 2025: Update notes
+Tue Nov 25 07:03:46 UTC 2025: Improve documentation
