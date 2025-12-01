@@ -503,3 +503,4 @@ Sun Nov 30 07:47:03 UTC 2025: Add snippet
 Mon Dec  1 06:48:55 UTC 2025: Add snippet
 Mon Dec  1 06:53:34 UTC 2025: Improve documentation
 Mon Dec  1 07:16:35 UTC 2025: Add new example
+Mon Dec  1 07:22:58 UTC 2025: Update readme
