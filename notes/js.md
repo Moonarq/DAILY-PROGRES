@@ -532,3 +532,4 @@ Fri Dec  5 07:07:34 UTC 2025: Add new example
 Fri Dec  5 07:15:48 UTC 2025: Update readme
 Fri Dec  5 07:20:40 UTC 2025: Update readme
 Fri Dec  5 07:41:50 UTC 2025: Add snippet
+Fri Dec  5 07:51:05 UTC 2025: Improve documentation
