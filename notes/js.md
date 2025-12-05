@@ -529,3 +529,4 @@ Thu Dec  4 07:23:50 UTC 2025: Enhance structure
 Thu Dec  4 07:26:24 UTC 2025: Learning log update
 Thu Dec  4 07:30:11 UTC 2025: Minor changes
 Fri Dec  5 07:07:34 UTC 2025: Add new example
+Fri Dec  5 07:15:48 UTC 2025: Update readme
