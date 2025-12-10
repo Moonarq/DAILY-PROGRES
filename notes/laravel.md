@@ -531,3 +531,4 @@ Wed Dec 10 07:15:19 UTC 2025: Update readme
 Wed Dec 10 07:19:37 UTC 2025: Enhance structure
 Wed Dec 10 07:26:50 UTC 2025: Add new example
 Wed Dec 10 07:47:57 UTC 2025: Enhance structure
+Wed Dec 10 07:50:37 UTC 2025: Improve documentation
