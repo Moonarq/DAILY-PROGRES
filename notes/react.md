@@ -587,3 +587,4 @@ Thu Dec 18 07:01:44 UTC 2025: Update readme
 Fri Dec 19 07:40:58 UTC 2025: Minor changes
 Fri Dec 19 07:48:15 UTC 2025: Add snippet
 Sat Dec 20 06:52:55 UTC 2025: Update notes
+Sat Dec 20 06:58:34 UTC 2025: Improve documentation
