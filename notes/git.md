@@ -590,3 +590,4 @@ Sun Dec 21 07:03:21 UTC 2025: Enhance structure
 Sun Dec 21 07:05:37 UTC 2025: Add new example
 Mon Dec 22 07:11:00 UTC 2025: Improve documentation
 Mon Dec 22 07:22:48 UTC 2025: Add snippet
+Mon Dec 22 07:24:54 UTC 2025: Improve documentation
