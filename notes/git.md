@@ -588,3 +588,4 @@ Sat Dec 20 07:15:05 UTC 2025: Update readme
 Sat Dec 20 07:40:39 UTC 2025: Learning log update
 Sun Dec 21 07:03:21 UTC 2025: Enhance structure
 Sun Dec 21 07:05:37 UTC 2025: Add new example
+Mon Dec 22 07:11:00 UTC 2025: Improve documentation
