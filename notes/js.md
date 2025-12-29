@@ -622,3 +622,4 @@ Sun Dec 28 07:13:51 UTC 2025: Add snippet
 Sun Dec 28 07:18:41 UTC 2025: Add new example
 Sun Dec 28 07:25:22 UTC 2025: Update notes
 Mon Dec 29 07:11:07 UTC 2025: Update notes
+Mon Dec 29 07:14:20 UTC 2025: Improve documentation
