@@ -640,3 +640,4 @@ Fri Jan  2 07:17:56 UTC 2026: Enhance structure
 Fri Jan  2 07:22:23 UTC 2026: Update readme
 Fri Jan  2 07:52:00 UTC 2026: Add new example
 Sat Jan  3 07:00:56 UTC 2026: Fix typo
+Sat Jan  3 07:28:41 UTC 2026: Refactor code
