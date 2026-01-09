@@ -663,3 +663,4 @@ Thu Jan  8 07:55:40 UTC 2026: Add snippet
 Thu Jan  8 08:03:53 UTC 2026: Update notes
 Fri Jan  9 06:58:52 UTC 2026: Minor changes
 Fri Jan  9 07:32:49 UTC 2026: Add snippet
+Fri Jan  9 07:40:53 UTC 2026: Improve documentation
