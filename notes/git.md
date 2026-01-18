@@ -698,3 +698,4 @@ Sat Jan 17 07:00:23 UTC 2026: Add snippet
 Sat Jan 17 07:02:29 UTC 2026: Fix typo
 Sat Jan 17 07:34:02 UTC 2026: Update readme
 Sun Jan 18 07:07:31 UTC 2026: Add snippet
+Sun Jan 18 07:15:23 UTC 2026: Improve documentation
