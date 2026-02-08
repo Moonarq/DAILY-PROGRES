@@ -774,3 +774,4 @@ Fri Feb  6 07:35:26 UTC 2026: Update readme
 Fri Feb  6 07:53:40 UTC 2026: Add new example
 Sat Feb  7 06:56:54 UTC 2026: Add new example
 Sat Feb  7 07:36:34 UTC 2026: Enhance structure
+Sun Feb  8 07:27:18 UTC 2026: Improve documentation
