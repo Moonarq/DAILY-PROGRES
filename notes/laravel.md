@@ -800,3 +800,4 @@ Tue Feb 17 07:41:10 UTC 2026: Update readme
 Tue Feb 17 07:49:30 UTC 2026: Refactor code
 Tue Feb 17 08:04:31 UTC 2026: Fix typo
 Wed Feb 18 07:24:19 UTC 2026: Add new example
+Wed Feb 18 07:29:05 UTC 2026: Improve documentation
