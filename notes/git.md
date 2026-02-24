@@ -843,3 +843,4 @@ Mon Feb 23 08:26:36 UTC 2026: Add snippet
 Tue Feb 24 07:19:47 UTC 2026: Update readme
 Tue Feb 24 07:22:23 UTC 2026: Fix typo
 Tue Feb 24 07:25:00 UTC 2026: Update readme
+Tue Feb 24 07:34:56 UTC 2026: Improve documentation
