@@ -873,3 +873,4 @@ Tue Mar 10 08:18:49 UTC 2026: Learning log update
 Wed Mar 11 07:37:53 UTC 2026: Update readme
 Wed Mar 11 08:20:28 UTC 2026: Add new example
 Thu Mar 12 07:20:01 UTC 2026: Minor changes
+Thu Mar 12 07:29:14 UTC 2026: Improve documentation
