@@ -1077,3 +1077,4 @@ Fri May  1 08:50:00 UTC 2026: Refactor code
 Sat May  2 08:56:32 UTC 2026: Update readme
 Sun May  3 08:18:17 UTC 2026: Add snippet
 Sun May  3 08:38:50 UTC 2026: Add snippet
+Sun May  3 08:41:52 UTC 2026: Improve documentation
