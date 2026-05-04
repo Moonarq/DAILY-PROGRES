@@ -1117,3 +1117,4 @@ Sun May  3 08:34:27 UTC 2026: Update readme
 Sun May  3 09:04:54 UTC 2026: Minor changes
 Mon May  4 08:42:22 UTC 2026: Update notes
 Mon May  4 08:51:12 UTC 2026: Add snippet
+Mon May  4 09:02:36 UTC 2026: Improve documentation
