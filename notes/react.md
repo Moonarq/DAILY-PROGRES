@@ -1149,3 +1149,4 @@ Sun May 31 08:36:40 UTC 2026: Improve documentation
 Sun May 31 08:40:29 UTC 2026: Fix typo
 Mon Jun  1 08:38:57 UTC 2026: Improve documentation
 Mon Jun  1 08:45:16 UTC 2026: Add new example
+Mon Jun  1 08:58:31 UTC 2026: Update readme
